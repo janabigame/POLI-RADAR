@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Poliradar · Contactos</title>
+<link rel="stylesheet" href="css/styles.css">
+<script src="js/app.js" defer></script>
+</head>
+<body data-page="contacto">
+<header class="top">
+  <a class="logo" href="index.html"><img src="img/logo.png" alt="" width="32" height="32">POLIRADAR</a>
+  <nav>
+    <a href="index.html">Inicio</a>
+    <a href="noticias.html">Noticias</a>
+    <a href="favoritos.html">Favoritos</a>
+    <a href="contacto.html" class="on" aria-current="page">Contactos</a>
+  </nav>
+  <a class="ico" href="noticias.html" aria-label="Buscar noticias">&#128269;</a>
+</header>
+<main>
+<section class="wrap contacto">
+  <div class="izq">
+    <span class="tel" aria-hidden="true">&#9990;</span>
+    <p>Escríbenos un correo para publicar tu noticia o también puedes escribir una sugerencia</p>
+  </div>
+  <form id="form" novalidate>
+    <label for="nombre">Nombre</label>
+    <input id="nombre" name="nombre" placeholder="Escribe tu nombre" autocomplete="name">
+    <small class="err" data-for="nombre"></small>
+    <label for="correo">Correo electrónico</label>
+    <input id="correo" name="correo" type="email" placeholder="Escribe tu correo" autocomplete="email">
+    <small class="err" data-for="correo"></small>
+    <label for="asunto">Asunto</label>
+    <input id="asunto" name="asunto" placeholder="Escribe tu asunto">
+    <small class="err" data-for="asunto"></small>
+    <label for="mensaje">Mensaje</label>
+    <textarea id="mensaje" name="mensaje" rows="5" placeholder="Por favor escribe tu mensaje"></textarea>
+    <small class="err" data-for="mensaje"></small>
+    <button class="btn" type="submit">Enviar</button>
+    <p class="ok" id="ok" role="status" hidden>Mensaje enviado. Gracias por escribirnos.</p>
+  </form>
+</section>
+</main>
+<footer class="pie">© 2026 Poliradar · Politécnico Grancolombiano</footer>
+</body>
+</html>

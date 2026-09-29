@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Poliradar · Artículo</title>
+<link rel="stylesheet" href="css/styles.css">
+<script src="js/app.js" defer></script>
+</head>
+<body data-page="articulo">
+<header class="top">
+  <a class="logo" href="index.html"><img src="img/logo.png" alt="" width="32" height="32">POLIRADAR</a>
+  <nav>
+    <a href="index.html">Inicio</a>
+    <a href="noticias.html" class="on" aria-current="page">Noticias</a>
+    <a href="favoritos.html">Favoritos</a>
+    <a href="contacto.html">Contactos</a>
+  </nav>
+  <a class="ico" href="noticias.html" aria-label="Buscar noticias">&#128269;</a>
+</header>
+<main>
+<section class="art-hero thumb" id="hero"><div class="wrap"><h1 id="tit">Cargando...</h1></div></section>
+<section class="wrap art">
+  <div class="cuerpo">
+    <img class="foto" id="foto" alt="" hidden onerror="this.remove()">
+    <div id="cuerpo"></div>
+    <a class="btn" href="index.html">Volver al inicio</a>
+    
+  </div>
+  <aside class="info">
+    <h2>Información del artículo</h2>
+    <dl>
+      <dt>Categoría</dt><dd id="i-cat"></dd>
+      <dt>Fecha de publicación</dt><dd id="i-fecha"></dd>
+      <dt>Autor</dt><dd id="i-autor"></dd>
+    </dl>
+    <button class="btn" id="favbtn" type="button">Marcar como favorito</button>
+  </aside>
+</section>
+</main>
+<footer class="pie">© 2026 Poliradar · Politécnico Grancolombiano</footer>
+</body>
+</html>

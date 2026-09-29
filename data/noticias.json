@@ -1,0 +1,92 @@
+[
+ {
+  "id": 1,
+  "titulo": "Aprende Python desde cero: la guía definitiva",
+  "resumen": "Aprende el lenguaje clave detrás de la inteligencia artificial y los datos.",
+  "categoria": "Educación",
+  "fecha": "15 de septiembre, 2026",
+  "autor": "Juan Pérez",
+  "contenido": "En un mundo cada vez más liderado por la inteligencia artificial y el análisis masivo de datos, Python se consolida como la herramienta de programación imprescindible para desarrolladores, creativos y profesionales de cualquier sector. Su sintaxis sencilla, limpia y cercana al lenguaje humano lo convierte en la mejor puerta de entrada tanto para principiantes como para expertos.\nAprender Python no solo permite automatizar tareas cotidianas y construir aplicaciones web interactivas, sino también desarrollar modelos de machine learning y ciencia de datos. Gracias a su enorme comunidad global y a miles de librerías gratuitas, dar los primeros pasos nunca había sido tan accesible.",
+  "imagen": "img/noticias/noticia-1.jpg"
+ },
+ {
+  "id": 2,
+  "titulo": "Sobre ciudades contaminadas",
+  "resumen": "Las metrópolis que enfrentan las crisis de calidad del aire más extremas.",
+  "categoria": "Turismo",
+  "fecha": "15 de septiembre, 2026",
+  "autor": "Redacción Poliradar",
+  "contenido": "La calidad del aire se ha vuelto un factor clave al elegir un destino. Varias metrópolis del mundo enfrentan episodios de contaminación que afectan la salud de sus habitantes y la experiencia de quienes las visitan.\nConocer el estado del aire antes de viajar ayuda a planear mejor la ruta, las actividades al aire libre y la temporada de visita.",
+  "imagen": "img/noticias/noticia-2.jpg"
+ },
+ {
+  "id": 3,
+  "titulo": "El hogar que piensa por ti",
+  "resumen": "Transforma tu espacio con la última tecnología en casas inteligentes.",
+  "categoria": "Tecnología",
+  "fecha": "15 de septiembre, 2026",
+  "autor": "Redacción Poliradar",
+  "contenido": "Las casas inteligentes integran luces, sensores, cámaras y electrodomésticos que se controlan desde el celular o con la voz. Automatizar rutinas ahorra tiempo y energía.\nAntes de comprar, conviene revisar que los dispositivos sean compatibles entre sí y que protejan la privacidad de quienes viven en el hogar.",
+  "imagen": "img/noticias/noticia-3.jpg"
+ },
+ {
+  "id": 4,
+  "titulo": "Aprende a hacer tu hoja de vida",
+  "resumen": "Los mejores consejos para armar una hoja de vida que destaque.",
+  "categoria": "Educación",
+  "fecha": "15 de septiembre, 2026",
+  "autor": "Redacción Poliradar",
+  "contenido": "Una buena hoja de vida es clara, breve y adaptada al cargo al que aplicas. Ordena tu experiencia de la más reciente a la más antigua y destaca logros concretos.\nRevisa la ortografía, usa un formato limpio y comparte el archivo en PDF.",
+  "imagen": "img/noticias/noticia-4.jpg"
+ },
+ {
+  "id": 5,
+  "titulo": "El Poli se destaca en taekwondo",
+  "resumen": "El equipo del Politécnico avanzó a los octavos de final de la liga universitaria.",
+  "categoria": "Deportes",
+  "fecha": "15 de septiembre, 2026",
+  "autor": "Redacción Poliradar",
+  "contenido": "El equipo de taekwondo del Politécnico avanzó a los octavos de final de la liga universitaria tras una serie de combates de alto nivel.\nLos deportistas agradecieron el apoyo de la comunidad y ya se preparan para la siguiente fase.",
+  "imagen": "img/noticias/noticia-5.jpg"
+ },
+ {
+  "id": 6,
+  "titulo": "Politécnico Grancolombiano se corona campeón de microfútbol",
+  "resumen": "El equipo se quedó con el torneo nacional de microfútbol universitario.",
+  "categoria": "Deportes",
+  "fecha": "14 de septiembre, 2026",
+  "autor": "Redacción Poliradar",
+  "contenido": "El equipo de microfútbol del Politécnico Grancolombiano se coronó campeón del torneo nacional universitario en una final muy disputada.\nLa comunidad académica celebró el logro, resultado de meses de entrenamiento y trabajo en equipo.",
+  "imagen": "img/noticias/noticia-6.jpg"
+ },
+ {
+  "id": 7,
+  "titulo": "Startups latinoamericanas destacan en congreso de innovación",
+  "resumen": "Emprendedores de la región presentan soluciones de fintech, salud y educación.",
+  "categoria": "Comercio",
+  "fecha": "12 de septiembre, 2026",
+  "autor": "Redacción Poliradar",
+  "contenido": "Emprendedores de varios países de la región presentaron sus proyectos en un congreso de innovación, con propuestas en fintech, salud y educación.\nLos asistentes destacaron la importancia de conectar a las startups con inversionistas y universidades.",
+  "imagen": "img/noticias/noticia-7.jpg"
+ },
+ {
+  "id": 8,
+  "titulo": "Los 5 destinos naturales imperdibles de Colombia",
+  "resumen": "Paisajes, biodiversidad y rutas para recorrer el país este año.",
+  "categoria": "Turismo",
+  "fecha": "10 de septiembre, 2026",
+  "autor": "Redacción Poliradar",
+  "contenido": "Colombia ofrece selvas, montañas, desiertos y costas que se pueden recorrer en un mismo viaje. Planear con tiempo las rutas y respetar las normas de cada parque natural protege estos ecosistemas.\nEmpieza por elegir la región que más se acerque a tus intereses.",
+  "imagen": "img/noticias/noticia-8.jpg"
+ },
+ {
+  "id": 9,
+  "titulo": "El café colombiano conquista mercados internacionales",
+  "resumen": "Productores locales amplían su presencia en cafeterías de todo el mundo.",
+  "categoria": "Comercio",
+  "fecha": "8 de septiembre, 2026",
+  "autor": "Redacción Poliradar",
+  "contenido": "Los productores de café colombiano siguen ampliando su presencia en mercados internacionales gracias a la calidad del grano y a las marcas de origen.\nLa venta directa y el comercio electrónico abren nuevas oportunidades para los pequeños caficultores.",
+  "imagen": "img/noticias/noticia-9.jpg"
+ }
+]

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Poliradar · Noticias</title>
+<link rel="stylesheet" href="css/styles.css">
+<script src="js/app.js" defer></script>
+</head>
+<body data-page="noticias">
+<header class="top">
+  <a class="logo" href="index.html"><img src="img/logo.png" alt="" width="32" height="32">POLIRADAR</a>
+  <nav>
+    <a href="index.html">Inicio</a>
+    <a href="noticias.html" class="on" aria-current="page">Noticias</a>
+    <a href="favoritos.html">Favoritos</a>
+    <a href="contacto.html">Contactos</a>
+  </nav>
+  <a class="ico" href="noticias.html" aria-label="Buscar noticias">&#128269;</a>
+</header>
+<main>
+<section class="wrap titulo">
+  <h1>Todas las noticias</h1>
+  <p>Explora nuestro catálogo de noticias y encuentra la información que más te interesa</p>
+</section>
+<form class="wrap filtros" id="filtros">
+  <input id="q" type="search" placeholder="Buscar noticias..." aria-label="Buscar noticias">
+  <select id="cat" aria-label="Categorías"><option value="">Categorías</option></select>
+  <button class="btn" type="submit">Buscar</button>
+</form>
+<section class="wrap">
+  <div class="grid" id="lista"></div>
+  <nav class="pag" id="pag" aria-label="Paginación"></nav>
+</section>
+</main>
+<footer class="pie">© 2026 Poliradar · Politécnico Grancolombiano</footer>
+</body>
+</html>
